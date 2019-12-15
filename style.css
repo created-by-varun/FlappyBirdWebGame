@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'flappy_birdregular';
+   src: url('flappy-bird-webfont.woff2') format('woff2'),
+      url('flappy-bird-webfont.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+
+}
+canvas {
+    display: block;
+    margin: 0 auto;
+ }
